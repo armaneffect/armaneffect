@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Hockey's](https://hockey-s-rho.vercel.app/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **Android, Web**
 
